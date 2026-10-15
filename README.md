@@ -59,7 +59,7 @@ For courses and learning resources by topic, see the **[Courses and Learning Res
 
 ---
 
-## :star: Top AI Tools List
+## :star: Top AI Tools Lists
 
 Discover our favorite AI tools spanning every layer of AI application development. See [Our Favourite AI Tools](resources/our_favourite_ai_tools.md).
 
